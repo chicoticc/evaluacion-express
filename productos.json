@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop Gamer",
+        "precio": 1500
+    },
+    {
+        "id": 2,
+        "nombre": "Teclado Mecánico",
+        "precio": 120
+    },
+    {
+        "id": 3,
+        "nombre": "Mouse Inalámbrico",
+        "precio": 80
+    }
+]
